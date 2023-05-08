@@ -1,0 +1,2 @@
+Hello World, this is my first time using git. Seems very cool and i am now 
+working on a version control repo. Just a regular monday for me in the future. 
